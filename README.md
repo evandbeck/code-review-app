@@ -27,7 +27,6 @@ Key Features:
 
 System Design
 - Behaviour & Data Needed
-- Document DB / MongoDB – Relational vs. Document DB
 
 
 
