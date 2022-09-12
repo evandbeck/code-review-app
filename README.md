@@ -4,7 +4,9 @@
 
 # CODE REVIEW APP
 
-Sunday, 09/11: Work through https://www.frontendmentor.io/
+Monday, 09/12: 
+- Work through https://www.frontendmentor.io/
+- Complete Backend
 
 Goal: Create unique portfolio project to challenge myself, and learn new technologies in the process, with the hopes of drawing more interviews
 Purpose: Create a platform for other beginner programmers to draw inspiration from, as they may be uncertain of “what project to work on.”
